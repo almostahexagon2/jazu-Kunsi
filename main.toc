@@ -1,0 +1,49 @@
+\contentsline {part}{I\hspace {1em}Introduction}{1}{}%
+\contentsline {chapter}{\numberline {1}Goals}{3}{}%
+\contentsline {part}{II\hspace {1em}Grammar}{5}{}%
+\contentsline {chapter}{\numberline {2}Phonology}{7}{}%
+\contentsline {section}{\numberline {2.1}Consonants}{7}{}%
+\contentsline {section}{\numberline {2.2}Vowels}{7}{}%
+\contentsline {section}{\numberline {2.3}Pitch Accent}{7}{}%
+\contentsline {section}{\numberline {2.4}Allophony}{8}{}%
+\contentsline {chapter}{\numberline {3}Syntax}{9}{}%
+\contentsline {chapter}{\numberline {4}Ejo lanrepn (Forms)}{11}{}%
+\contentsline {chapter}{\numberline {5}Verbs}{13}{}%
+\contentsline {subsection}{\numberline {5.0.1}Verb Suffixes}{14}{}%
+\contentsline {section}{\numberline {5.1}Nouns and Adjectives}{14}{}%
+\contentsline {section}{\numberline {5.2}The Verb ``suri''}{14}{}%
+\contentsline {section}{\numberline {5.3}The Verb ``ron''}{15}{}%
+\contentsline {section}{\numberline {5.4}Comparisons}{15}{}%
+\contentsline {chapter}{\numberline {6}Particles}{17}{}%
+\contentsline {section}{\numberline {6.1}``wa'' and ``ta''}{17}{}%
+\contentsline {section}{\numberline {6.2}Genitives with ``jo''}{18}{}%
+\contentsline {section}{\numberline {6.3}Locations}{18}{}%
+\contentsline {section}{\numberline {6.4}Instrumental with ``po''}{19}{}%
+\contentsline {section}{\numberline {6.5}Times}{19}{}%
+\contentsline {section}{\numberline {6.6}Conjunction and Disjunction}{20}{}%
+\contentsline {section}{\numberline {6.7}Relative Clauses}{20}{}%
+\contentsline {chapter}{\numberline {7}Positions}{21}{}%
+\contentsline {chapter}{\numberline {8}Numbers}{23}{}%
+\contentsline {chapter}{\numberline {9}Computer Tiers}{25}{}%
+\contentsline {chapter}{\numberline {10}Pronouns and Proper Nouns}{27}{}%
+\contentsline {part}{III\hspace {1em}Orthography}{29}{}%
+\contentsline {chapter}{\numberline {11}Punctuation}{31}{}%
+\contentsline {chapter}{\numberline {12}Vimsonjo}{33}{}%
+\contentsline {chapter}{\numberline {13}Cyrillic}{35}{}%
+\contentsline {chapter}{\numberline {14}Katakana}{37}{}%
+\contentsline {chapter}{\numberline {15}Devanagari}{39}{}%
+\contentsline {part}{IV\hspace {1em}Texts}{41}{}%
+\contentsline {chapter}{\numberline {16}UDHR}{43}{}%
+\contentsline {chapter}{\numberline {17}I Lenin Takoj Molodoj}{45}{}%
+\contentsline {chapter}{\numberline {18}pjukuxrepuno}{47}{}%
+\contentsline {chapter}{\numberline {19}Quotes}{49}{}%
+\contentsline {section}{\numberline {19.1}Cat-v.org}{49}{}%
+\contentsline {chapter}{\numberline {20}Laws of Human Stupidity}{51}{}%
+\contentsline {part}{V\hspace {1em}Lexicon}{53}{}%
+\contentsline {chapter}{\numberline {21}Countries and Capitals}{55}{}%
+\contentsline {chapter}{\numberline {22}Languages}{61}{}%
+\contentsline {chapter}{\numberline {23}Dates and Times}{63}{}%
+\contentsline {chapter}{\numberline {24}Linguistic Terminology}{65}{}%
+\contentsline {chapter}{\numberline {25}Computer Terminology}{67}{}%
+\contentsline {chapter}{\numberline {26}Mathematical Terminology}{69}{}%
+\contentsline {chapter}{\numberline {27}Science Terminology}{71}{}%
